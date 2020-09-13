@@ -1,5 +1,5 @@
 {
-	"name": "gifsicle",
+	"name": "gifsicle-mirror",
 	"version": "5.1.0",
 	"description": "gifsicle wrapper that makes it seamlessly available as a local dependency",
 	"license": "MIT",
